@@ -1,0 +1,20 @@
+{
+  "name": "socialmedia-api",
+  "version": "1.0.0",
+  "description": "Social Media",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanM09/SocialMedia-API.git"
+  },
+  "author": "Alan Mayer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.15"
+  }
+}
